@@ -1,0 +1,9 @@
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\BLL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\BLL.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\DAL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\DTO.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\DAL.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\bin\Debug\DTO.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\obj\Debug\BLL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\BLL\obj\Debug\BLL.pdb

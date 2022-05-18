@@ -1,0 +1,7 @@
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\bin\Debug\DAL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\bin\Debug\DAL.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\bin\Debug\DTO.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\bin\Debug\DTO.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\obj\Debug\DAL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\DAL\obj\Debug\DAL.pdb

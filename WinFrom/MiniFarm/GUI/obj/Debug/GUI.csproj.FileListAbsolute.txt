@@ -1,0 +1,16 @@
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.frmMain.resources
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\GUI.exe.config
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\GUI.exe
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\GUI.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.exe
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\BLL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\DTO.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\DAL.dll
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\BLL.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\DTO.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\bin\Debug\DAL.pdb
+D:\DuAn\MiniFarm\WinFrom\MiniFarm\GUI\obj\Debug\GUI.frmLogin.resources

@@ -26,7 +26,9 @@ Sau khi đăng nhập người dùng khởi động hệ thống, hệ thống m
 
 Ở chế độ Auto chương trình tự động kết nối với arduino, lấy giá trị cảm biến và tự động tìm gửi lệnh điều khiển động cơ.
 SQL Ser gồm 2 bảng:
+
 ![image](https://user-images.githubusercontent.com/94212972/168984584-55cb0580-2c63-43e1-8242-80519d144fff.png)
+
 Bảng Login để lưu thông tin đăng nhập.
 Bảng Sensor lưu giá trị cảm biến.
 
